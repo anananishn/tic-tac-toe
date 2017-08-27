@@ -1,0 +1,4 @@
+clay-config-file==1.0.4
+clay-config==2.0.5
+clay-core==6.0.14
+flask==0.12.2
